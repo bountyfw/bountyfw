@@ -1,6 +1,6 @@
 <h1 align="center"> Hiiiii 👺</h1>
 
-<h2 align="center"> Me Program <img src="https://cdn.discordapp.com/emojis/886788754403119114.png?size=100" width="30px"></h2>
+<h2 align="center"> Me :<img src="https://cdn.discordapp.com/emojis/886788754403119114.png?size=100" width="30px"></h2>
 
 ```java
 
